@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duncan. 
 - 👀 I’m into Network Administration, Design and Maintenence.
-- 🌱 I’m currently learning ML with Python, CCNA and in my 4th Year at IUEA pursing BSc. Mobile and Satellite Telecomunications. 
+- 🌱 I’m currently learning Software Engineering with ALX. 
 - 📫 How to reach me ... dtindiwensi@gmail.com
 
 <!---
